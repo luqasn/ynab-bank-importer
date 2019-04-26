@@ -13,6 +13,9 @@ gem 'twentysix'
 # Dumper: FinTS
 gem 'ruby_fints', '0.0.3'
 
+# Dumper: QIF
+gem 'qif'
+
 gem 'activesupport'
 gem 'base32'
 gem 'colorize'
